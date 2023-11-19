@@ -11,9 +11,9 @@ The University of Helsinki's Python Programming MOOC is designed to offer a deep
 
 Each directory in this repository corresponds to a specific week or topic covered in the MOOC. Inside each directory, you'll find the following:
 
-- `Exercises/`: Contains the exercises provided each week along with my solutions.
-- `Projects/`: Any larger projects or assignments that were part of the course.
-- `Notes/`: Personal notes and summaries of key concepts and learning points.
+- `completed_exercises/`: Contains the exercises provided each week along with my solutions.
+- `src/`: The src/ directories nested within each separate exercise directory contain my submitted solution.
+- `test/`: The test/ directories nested within each separate exercise directory contain the unit tests used to assess my solutions.
 
 
 ## Learning Outcomes
